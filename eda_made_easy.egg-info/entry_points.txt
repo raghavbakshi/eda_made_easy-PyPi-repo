@@ -1,0 +1,3 @@
+[console_scripts]
+EDA = EDA.__main__:main
+

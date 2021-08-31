@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+EDA/__init__.py
+EDA/__main__.py
+eda_made_easy.egg-info/PKG-INFO
+eda_made_easy.egg-info/SOURCES.txt
+eda_made_easy.egg-info/dependency_links.txt
+eda_made_easy.egg-info/entry_points.txt
+eda_made_easy.egg-info/top_level.txt

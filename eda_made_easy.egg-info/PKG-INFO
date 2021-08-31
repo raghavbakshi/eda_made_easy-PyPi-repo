@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: eda-made-easy
+Version: 1.0.0
+Summary: It performs EDA within few steps
+Home-page: https://github.com/raghavbakshi/eda_made_easy
+Author: Raghav Bakshi
+Author-email: raghavbakshi19@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# easyEDA
+It is used to automate some of the EDA stuff like missing value impuation, outlier removal and scaling the data.
+The class will take dataset in pandas dataframe data type and funtions can be called accordingly.
+
+##Installation
+```pip install easyEDA```
+
+How to use it?
+Open terminal and type easyEDA and put dataset inside it.
+
+##License
+Â© 2021 Raghav Bakshi
+
+This repository is licensed under the MIT license. See LICENSE for details. 
+
